@@ -19,7 +19,8 @@ More findings and suggestions
     - Recommendations: Set $9,999 as her goal or slightly less.
    
   - Timing of fund raising
-      ![Outcomes Based on Launch Date](path/to/image_name.png)
+  
+      ![Outcomes Based on Launch Date](https://github.com/karenmxm/Kickstarter-Analysis/blob/master/Outcomes_Based%20on_Launch%20Date.png)
     - Findings: Outcomes based on launch date show that May has the most number of successful campaigns. The trend dramatically decreases each month after May. December is the worst time for crowdfunding.
     - Recommendations: Start from May and raise during summer (May- August).
 
