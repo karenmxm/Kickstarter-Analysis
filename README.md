@@ -1,7 +1,7 @@
 # Kickstarter-Analysis
 Performing analysis on Kickstarter data to uncover trends.
 The purpose of the project is to help Louise find out factors that make her fundraising campaign for her play “Fever” successful by Crowdfunding. The goal of her campaign is $10,000. We use Kickstarter dataset to mirror other successful ones in her category. Kickstarter dataset contains 4114 campaigns’ information (14 variables) including campaign goals, pledged amount, outcomes, which country the campaign took place, launch date, number of backers and categories etc.. The following sections show findings from Kickstarter dataset.
-1. Findings from Kickstarter dataset
+Findings from Kickstarter dataset
 * Parent category outcomes show that “Theater” has most successful outcomes and “Journalism” has least successful outcomes.
 * Subcategory outcomes show that the “plays” category is the most successful Kickstarter campaigns for plays in Great Britain.
 * Outcomes based on launch time show that the most successful Kickstarter theater campaigns were started in May. December has the lowest successful outcomes which means it is not a good time to launch a campaign.
