@@ -1,7 +1,7 @@
 # Kickstarter-Analysis
 Performing analysis on Kickstarter data to uncover trends.
 The purpose of the project is to help Louise find out factors that make her fundraising campaign for her play “Fever” successful by Crowdfunding. The goal of her campaign is $10,000. We use Kickstarter dataset to mirror other successful ones in her category. Kickstarter dataset contains 4114 campaigns’ information (14 variables) including campaign goals, pledged amount, outcomes, which country the campaign took place, launch date, number of backers and categories etc.. The following sections show findings from Kickstarter dataset.
-Findings from Kickstarter dataset
+1. Findings from Kickstarter dataset
 * Parent category outcomes show that “Theater” has most successful outcomes and “Journalism” has least successful outcomes.
 * Subcategory outcomes show that the “plays” category is the most successful Kickstarter campaigns for plays in Great Britain.
 * Outcomes based on launch time show that the most successful Kickstarter theater campaigns were started in May. December has the lowest successful outcomes which means it is not a good time to launch a campaign.
@@ -9,8 +9,8 @@ Findings from Kickstarter dataset
 * Based on these statistics, we can determine the following: 
 The mean of each goal’s distribution is around the 3rd quartile and the standard deviation is larger than the mean. Moreover, for both goal successful and failed subsets, because median minus lower quartile is less than upper quartile minus median. So in each subset, the data follows similar distributions and right skewed, meaning large values are driving these distributions. But the failed goal subset is skewed more, meaning failed campaigns have a larger percentage of high goals.
 ###
-Challenge
-2. More findings and suggestions
+2. Challenge
+More findings and suggestions
 * Conclusions: Based on Kickstarter dataset, we found that Amount of goal, timing of fundraising, the incentive for pledge amount (average donation amount) are the important factors can affect successful rate of a crowdfunding.
 a. Amount of goal
 Findings: Goals between $5,000-$9,999, percentage of successful is 55.03%, Between $10,000 - $14,999, percentage of successful is 54.17%. Successful percentages are very close in these two scales. But between $ 1,000 - $ 4,000, percentage of successful campaigns is dramatically higher (72.66%). This means when goal decreases by $1,000, successful percentage increases by 3.52%. 
