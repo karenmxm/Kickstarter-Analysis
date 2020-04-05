@@ -9,7 +9,7 @@ The purpose of the project is to help Louise find out factors that make her fund
 * Based on these statistics, we can determine the following: 
 The mean of each goal’s distribution is around the 3rd quartile and the standard deviation is larger than the mean. Moreover, for both goal successful and failed subsets, because median minus lower quartile is less than upper quartile minus median. So in each subset, the data follows similar distributions and right skewed, meaning large values are driving these distributions. But the failed goal subset is skewed more, meaning failed campaigns have a larger percentage of high goals.
 ###
-2. Challenge
+2. Challenge:
 More findings and suggestions
 * Conclusions: Based on Kickstarter dataset, we found that Amount of goal, timing of fundraising, the incentive for pledge amount (average donation amount) are the important factors can affect successful rate of a crowdfunding.
 a. Amount of goal
