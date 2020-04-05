@@ -28,7 +28,9 @@ More findings and suggestions
     - Findings: We have data for four of Louise interested shows. The goal values of them are between £1,000- £2,000, and all of them are successful campaigns. The average donations are between £33.03 - £51.79. When the average donation is above £45, the number of backers is dramatically lower. 
     - Recommendations: Set the incentive for pledge amount below £45.
 - Limitations and suggestions for additional tables and graphs.
+
   - Limitations
 Based on Louise’s fundraising goal and her category, there is a limitation for a better analysis. She showed strong interest in Edinburg plays which implies this may be the place she wants to perform. Location is very important for the success of the fundraising for a performance since the audience are more likely to fund her play. But Kickstarter dataset contains very few Edinburg plays campaigns (55). And only three of them have goal close to Louise’s $10,000. The incentive for pledge amount below £45 we made is based on plays she interested with goals below £2,000. That is far from her goal, so it may not help her succeed. We need more information on Edinburg plays.
+
   - Suggestions
 We noticed campaigns missed their goal amount by different margins. We can look into the deficit and statistics of the deficit to investigate the reasons cause the difference of the margins. This can help to improve Louise’s decision on goal, timing and average donation request, etc..  
