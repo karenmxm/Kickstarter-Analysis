@@ -14,7 +14,7 @@ More findings and suggestions
 - Conclusions: Based on Kickstarter dataset, we found that Amount of goal, timing of fundraising, the incentive for pledge amount (average donation amount) are the important factors can affect successful rate of a crowdfunding.
   - Amount of goal
   
-    ![Outcomes Based on Goals](https://github.com/karenmxm/Kickstarter-Analysis/blob/master/Outcomes_Based%20on_Goal_1.png")
+    ![Outcomes Based on Goals](https://github.com/karenmxm/Kickstarter-Analysis/blob/master/Outcomes_Based%20on_Goal_1.png)
     - Findings: Goals between $5,000-$9,999, percentage of successful is 55.03%, Between $10,000 - $14,999, percentage of successful is 54.17%. Successful percentages are very close in these two scales. But between $ 1,000 - $ 4,000, percentage of successful campaigns is dramatically higher (72.66%). This means when goal decreases by $1,000, successful percentage increases by 3.52%. 
     - Recommendations: Set $9,999 as her goal or slightly less.
    
