@@ -13,13 +13,15 @@ The mean of each goal’s distribution is around the 3rd quartile and the standa
 More findings and suggestions
 - Conclusions: Based on Kickstarter dataset, we found that Amount of goal, timing of fundraising, the incentive for pledge amount (average donation amount) are the important factors can affect successful rate of a crowdfunding.
   - Amount of goal
+    ![Outcomes Based on Goals](path/to/image_name.png)
     - Findings: Goals between $5,000-$9,999, percentage of successful is 55.03%, Between $10,000 - $14,999, percentage of successful is 54.17%. Successful percentages are very close in these two scales. But between $ 1,000 - $ 4,000, percentage of successful campaigns is dramatically higher (72.66%). This means when goal decreases by $1,000, successful percentage increases by 3.52%. 
     - Recommendations: Set $9,999 as her goal or slightly less.
-    ![Outcomes Based on Goals](path/to/image_name.png)
+   
   - Timing of fund raising
+      ![Outcomes Based on Launch Date](path/to/image_name.png)
     - Findings: Outcomes based on launch date show that May has the most number of successful campaigns. The trend dramatically decreases each month after May. December is the worst time for crowdfunding.
     - Recommendations: Start from May and raise during summer (May- August).
-    ![Outcomes Based on Launch Date](path/to/image_name.png)
+
   - “Kickstarter, like other crowdfunding platforms, allows project creators to add incentives for different pledge amounts”. Louise also need to set up her incentives by how much money people need pledge by investigating campaigns historically in her category. She shows strong interests in five plays in Edinburg. So we have some findings and suggestions based on her interests.
     - Findings: We have data for four of Louise interested shows. The goal values of them are between £1,000- £2,000, and all of them are successful campaigns. The average donations are between £33.03 - £51.79. When the average donation is above £45, the number of backers is dramatically lower. 
     - Recommendations: Set the incentive for pledge amount below £45.
