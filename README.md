@@ -9,8 +9,7 @@ Findings from Kickstarter dataset
 * The average donation and number of backers of the five plays at the Edinburgh Festival Fringe Louise enjoyed: Be Prepared, £51.79, 39; Checkpoint 22, £36.07, 56; Cutting Off Kate Bush, £33.03, 78; Jestia and Raedon, £44.92, 26. There is no information about The Hitchhiker’s Guide to the Family. 
 * Based on these statistics, we can determine the following: 
 The mean of each goal’s distribution is around the 3rd quartile and the standard deviation is larger than the mean. Moreover, for both goal successful and failed subsets, because median minus lower quartile is less than upper quartile minus median. So in each subset, the data follows similar distributions and right skewed, meaning large values are driving these distributions. But the failed goal subset is skewed more, meaning failed campaigns have a larger percentage of high goals.
-##
-Challenge:
+## Challenge:
 More findings and suggestions
 - Conclusions: Based on Kickstarter dataset, we found that Amount of goal, timing of fundraising, the incentive for pledge amount (average donation amount) are the important factors can affect successful rate of a crowdfunding.
   - Amount of goal
